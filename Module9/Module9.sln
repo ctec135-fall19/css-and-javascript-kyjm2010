@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithCSS", "WorkingWi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithJavaScript", "WorkingWithJavaScript\WorkingWithJavaScript.csproj", "{6E028630-19A0-4371-AD15-6F13E9434D1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionState", "SessionState\SessionState.csproj", "{6CDFF697-B939-476E-88AF-0A56284A8332}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6E028630-19A0-4371-AD15-6F13E9434D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E028630-19A0-4371-AD15-6F13E9434D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E028630-19A0-4371-AD15-6F13E9434D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CDFF697-B939-476E-88AF-0A56284A8332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDFF697-B939-476E-88AF-0A56284A8332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDFF697-B939-476E-88AF-0A56284A8332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDFF697-B939-476E-88AF-0A56284A8332}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
